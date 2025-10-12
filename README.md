@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9a2edb&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=4500&pause=700&color=D9BED1&center=false&vCenter=true&width=520&lines=Hola%2C+soy+Stalin+Narv%C3%A1ez;Ingeniero+de+Software;Desarrollo+Web+%7C+React+%7C+AWS+CI%2FCD" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=4500&pause=700&color=D9BED1&center=false&vCenter=true&width=520&lines=Hola%2C+soy+Stalin+Narv%C3%A1ez;Ingeniero+de+Software;Desarrollo+Web+%7C+React+%7C+Js+%7C+git+%7C+AWS" alt="Typing Intro"/>
 </a>
 
 ---
