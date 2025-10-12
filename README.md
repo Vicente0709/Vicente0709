@@ -27,8 +27,15 @@ Ingeniero de Software con experiencia en **desarrollo de aplicaciones web**, **g
 ###  Métricas
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vicente0709&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicente0709&layout=compact&langs_count=8" alt="Top Langs"/>
+  <div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vicente0709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicente0709&layout=compact&theme=tokyonight"/>
+  
+  <img src="https://streak-stats.demolab.com?user=vicente0709&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+
+
+</div>
 </p>
 
 ---
