@@ -59,7 +59,7 @@ Ingeniero de Software con experiencia en **desarrollo de aplicaciones web**, **g
 
 ### CV para empleadores
 
-> **Descargar mi CV:** _(coloca aquí tu enlace de Drive/OneDrive)_  
+> **Descargar mi CV:**
 > <a href="https://drive.google.com/file/d/1Nyw1G-fkV-0hbRWoH9g8G8rOeOJeIeJr/view?usp=share_link" target="_blank">Abrir CV</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9a2edb&height=120&section=footer" alt="footer"/>
